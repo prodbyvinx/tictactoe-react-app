@@ -1,3 +1,3 @@
 # Tic Tac Toe
-## Jogo da Velha em React
+<p>Jogo da velha em React</p>
 Esse jogo foi criado para fins educacionais.

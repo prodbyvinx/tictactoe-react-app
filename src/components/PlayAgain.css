@@ -1,0 +1,19 @@
+.play-again {
+    border: none;
+    color: white;
+    background-color: #282c34;
+    font-family: 'Nunito', sans-serif;
+    border: solid 1px white;
+    border-radius: 40px;
+    height: 3em;
+    width: 11em;
+    font-weight: bolder;
+    transition: all 0.3s;
+}
+
+.play-again:hover {
+    color: #282c34;
+    border-radius: 50px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

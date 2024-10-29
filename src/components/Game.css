@@ -1,0 +1,29 @@
+.game {
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 700px;
+    width: 700px;
+    border-radius: 40px;
+    box-shadow: 0px 8px 12px 10px rgba(0, 0, 0, 0.2);
+    background-color: #282c34;
+    color: white;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+.title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    color: currentColor;
+}
+
+.subtitle {
+    font-family: 'Nunito', sans-serif;
+    color: rgba(255, 255, 255, 0.623);
+}

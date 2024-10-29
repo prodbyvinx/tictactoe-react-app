@@ -1,0 +1,15 @@
+.tile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 100px;
+}
+
+.right-border {
+    border-right: 0.1em solid #dbdbdb;
+}
+
+.bottom-border {
+    border-bottom: 0.1em solid #dbdbdb;
+}
